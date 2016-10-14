@@ -1,0 +1,24 @@
+body {
+  color: white;
+  background-image: url('../img/bg.jpg');
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+.div-label {
+  margin: 0;
+  position: absolute;
+  left: 300px;
+}
+
+.div-label p {
+  margin: 0;
+}
+
+.label {
+  font-size: 80px;
+}
+
+.tags {
+  font-size: 25px;  
+}
