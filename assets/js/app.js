@@ -24,6 +24,4 @@ function tick() {
   timer.textContent = `${minutes}:${seconds}`
 }
 
-
-
 main()
