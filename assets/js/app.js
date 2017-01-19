@@ -1,4 +1,4 @@
-const MINUTES_15 = 60 * 15 * 1000
+const MINUTES_15 = 60 * 5 * 1000
 const startDate = Date.now()
 const timer = document.getElementsByClassName('timer')[0]
 
